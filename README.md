@@ -1,6 +1,6 @@
 # SAREK Vault Project Website on Github
 
-![SAREK](img/logo3.jpg)
+![SAREK](img/logo3-300px.jpg)
 
 ## What It Is
 
